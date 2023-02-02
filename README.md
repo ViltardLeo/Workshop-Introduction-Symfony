@@ -27,7 +27,7 @@ Symfony is a PHP Framework using to create website and web application. Built on
 
 To start, we will install basic components to create our first web page.
 
-- [PHP](https://kinsta.com/fr/blog/installer-php/​)
+- [PHP](https://kinsta.com/fr/blog/installer-php)
 - [Symfony](https://symfony.com/download/)
 - [Composer](https://getcomposer.org/doc/00-intro.md)
   - Composer is the main component of Symfony. It is usefully to set up the base of our project

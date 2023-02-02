@@ -11,7 +11,7 @@
 
 If you want to be present you need send an email to leo.viltard@epitech.eu with the following object:
 ```
-[WSCYTHON] Nom Prénom
+[WSSymfony] Nom Prénom
 ```
 __/!\ Put your real firstname and lastname__
 

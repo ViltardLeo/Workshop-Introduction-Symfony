@@ -64,7 +64,7 @@ To perform it, you have to learn how work the Symfony console.
 
 </br></br>
 
-## Exercise 03: Discover of TWIG & set up a form
+## Exercise 03: First steps with Twig & set up a form
 
 As your controller suggests, we can find your template at:
 ```angular2html

@@ -41,6 +41,7 @@ To start, we will install basic components to create our first web page.
     sudo dnf install httpd-manual
   ```
 
+</br></br>
 
 ## Exercise 01: Create the skeleton
 
@@ -52,12 +53,16 @@ At least of exercise you need to have this following page:
 
 To perform it, you have to use composer commands.
 
+</br></br>
+
 ## Exercise 02: Set up the controller
 
 At least of this part you need to have functional controller and access to your homepage at the "/" path like follow:
 <div align="center"><img src="assets/homePage.png" alt="" width="600px"></div>
 
 To perform it, you have to learn how work the Symfony console.
+
+</br></br>
 
 ## Exercise 03: Discover of TWIG & set up a form
 
@@ -78,6 +83,8 @@ When you FormBuilder instance perform, you can pass it to the template to create
 
 At least you should have the following page:
 <div align="center"><img src="assets/form.png" alt="" width="400px"></div>
+
+</br></br>
 
 ## To go further: Doctrine entity
 

@@ -47,7 +47,7 @@ To start, we will install basic components to create our first web page.
 
 In this first part you will create your first Symfony skeleton website.
 
-At least of exercise you need to have this following page:
+For the exercise you need to have this following page:
 
 <div align="center"><img src="assets/firstPage.png" alt="" width="600px"></div>
 
@@ -57,7 +57,7 @@ To perform it, you have to use composer commands.
 
 ## Exercise 02: Set up the controller
 
-At least of this part you need to have functional controller and access to your homepage at the "/" path like follow:
+For this part you need to have functional controller and access to your homepage at the "/" path like follow:
 <div align="center"><img src="assets/homePage.png" alt="" width="600px"></div>
 
 To perform it, you have to learn how work the Symfony console.

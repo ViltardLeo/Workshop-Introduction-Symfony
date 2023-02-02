@@ -1,7 +1,7 @@
 # Workshop-Introduction-Symfony
 <div align="right"><i>By Viltard Léo - Epitech Nice - 2023</i></div></br></br></br>
 <div align="center">
-<h1>Workshop Cython</br>Introduction Framework Symfony</h1>
+<h1>Workshop Symfony</br>Introduction Framework Symfony</h1>
 <a><img height="75" alt="Epitech" src="assets/epitech_logo.png" /></a>
 </div>
 

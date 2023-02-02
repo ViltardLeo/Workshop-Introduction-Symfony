@@ -90,7 +90,7 @@ At least you should have the following page:
 
 Now you have functional form.
 
-Let's create our first Doctrine entity.
+__    Let's create our first Doctrine entity.__
 
 Doctrine is an abstraction of the link between your PHP code and your database tables
 
@@ -127,4 +127,7 @@ Let me show you an example:
 {% endfor %}
 ```
 
-__Is now up to you to know what to do with those code and how it works !__
+__Is now up to you to know what to do with those code and how it works!__
+
+
+__    To finish, try to modify the form by adding Vue.js to the Framework!__
